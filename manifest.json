@@ -1,12 +1,12 @@
 {
-    "display_name": "Template Extension",
+    "display_name": "Image To Video",
     "loading_order": 1,
     "requires": [],
     "optional": [],
     "js": "dist/index.js",
     "css": "",
-    "author": "Cohee1207",
+    "author": "edk208",
     "version": "1.0.0",
-    "homePage": "https://github.com/Cohee1207/Extension-ReactTemplate",
+    "homePage": "https://github.com/edk208/image2video-extension",
     "auto_update": true
 }
